@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Navisheik
-- 👀 I’m interested in Programming
-- 🌱 I’m currently studying IT
-- 📫 Insta: @navisheik
+- 🌱 Currently studying IT
+- 📫 Can find me on Twitter: @_NaVi_oof or Insta:  @Navisheik
 
 <!---
 NaVisheikk/NaVisheikk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
