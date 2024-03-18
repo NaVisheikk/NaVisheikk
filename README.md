@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Navisheik
-- 🌱 Currently studying IT
+- 🌱 Java Engineer
 - 📫 Find me on Twitter: @_NaVi_oof or Insta:  @Navisheik
 
 
