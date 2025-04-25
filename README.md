@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Navisheik
 - 🌱 Java Engineer
-- 📫 Find me on Twitter: @_NaVi_oof or Insta:  @Navisheik
+- 📫 Find me on Twitter: @_NaVi_oof
 
 
 
